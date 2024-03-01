@@ -1,0 +1,6 @@
+{
+  "name": "composer-phar/phpmd",
+  "description": "phpmd/phpmd",
+  "license": "BSD-3-Clause",
+  "bin": ["phpmd.phar"]
+}
